@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (SeatPicker.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(47,69): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(81,13): warning C4244:  '초기화 중': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(82,13): warning C4244:  '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(98,85): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(100,73): warning C4244:  '인수': 'unsigned int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(100,73): warning C4244:         with
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(100,73): warning C4244:         [
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(100,73): warning C4244:             T=float
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(100,73): warning C4244:         ]
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(100,38): warning C4244:  '인수': 'unsigned int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(100,38): warning C4244:         with
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(100,38): warning C4244:         [
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(100,38): warning C4244:             T=float
+D:\C++\SeatPicker\SeatPicker\SeatPicker\main.cpp(100,38): warning C4244:         ]
+  코드를 생성하고 있습니다.
+  13 of 442 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  SeatPicker.vcxproj -> D:\C++\SeatPicker\SeatPicker\Release\Seat_Randomizer.exe

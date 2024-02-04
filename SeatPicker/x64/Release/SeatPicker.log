@@ -1,0 +1,2 @@
+﻿  소스.cpp
+D:\C++\SeatPicker\SeatPicker\SeatPicker\소스.cpp(1,10): error C1083:  포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
